@@ -115,6 +115,20 @@
     <ClCompile Include="szakasz_1\kimenet.cpp" />
     <ClCompile Include="szakasz_1\logikai_elemek.cpp" />
     <ClCompile Include="szakasz_1\tipusok.cpp" />
+    <ClCompile Include="szakasz_2\bemenet.cpp" />
+    <ClCompile Include="szakasz_2\ciklusok.cpp" />
+    <ClCompile Include="szakasz_2\definialas_preprocessorban.cpp" />
+    <ClCompile Include="szakasz_2\forras_fajl_hivas.cpp" />
+    <ClCompile Include="szakasz_2\fuggvenyek.cpp" />
+    <ClCompile Include="szakasz_2\pelda.cpp" />
+    <ClCompile Include="szakasz_3\h_es_cpp\futtat.cpp" />
+    <ClCompile Include="szakasz_3\h_es_cpp\h_es_cpp.cpp" />
+    <ClCompile Include="szakasz_3\konstruktor_destructor.cpp" />
+    <ClCompile Include="szakasz_3\osztaly.cpp" />
+    <ClCompile Include="szakasz_3\struct.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="szakasz_3\h_es_cpp\h_es_cpp.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
